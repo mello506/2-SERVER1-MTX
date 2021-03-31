@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E06
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9199.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E07
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9200.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E08
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9201.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E09
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9202.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E10
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9203.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E11
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9204.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E12
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9205.mp4
-#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E13
-http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9206.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Cavaleiro Solitário
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71253.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Duelo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39264.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Duelo dos Fora da Lei
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39265.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Estranho Sem Nome
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71254.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Homem que Matou o Facínora
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71256.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Regresso
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39267.mp4
+#EXTINF:-1 group-title="filme • FAROESTE",O Retorno de John Henry
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39268.mp4
