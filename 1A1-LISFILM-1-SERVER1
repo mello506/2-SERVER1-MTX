@@ -10,6 +10,33 @@ http://n.srv1.xyz:8880/movie/ACML2/ACM21/33525.mp4
 #EXTINF:-1 tvg-logo="http://srvx.io:80/images/xulMdGldIZY4AD5Wbtqf5GcK0b1_big.jpg",[COLOR white][B]Capturado[/B][/COLOR]
 http://n.srv1.xyz:8880/movie/ACML2/ACM21/76102.mp4	
 
+#EXTINF:-1 group-title=,[COLOR white][B]Moana: Um Mar de Aventuras[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/25504.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Sangue no Gelo[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/75908.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Vingadores - Ultimato[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/33525.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Mentira Incondicional[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/75892.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]SCOOBY! O Filme[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/67275.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Mulan[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/71597.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]A Casa do Terror[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/75882.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Sociedade Secreta dos Segundos Filhos Reais[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/76105.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Minha Mãe é Uma Peça 3[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/39348.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]Sonic - O Filme[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/40931.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]O Halloween do Hubie[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/75894.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]PETS - A Vida Secreta dos Nossos Bichos 2[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/34059.mp4	
+#EXTINF:-1 group-title=,[COLOR white][B]S.W.A.T - Força Letal[/B][/COLOR]
+http://n.srv1.xyz:8880/movie/ACML2/ACM21/75870.mp4
+
 
 
 	
