@@ -1,17 +1,17 @@
-#EXTM3U	
-#EXTINF:-1 group-title=,[COLOR orange][B]Mulher Maravilha 1984[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/80866.mp4
-#EXTINF:-1 group-title=,[COLOR orange][B]Santuário[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/84156.mp4
-#EXTINF:-1 group-title=,[COLOR orange][B]Vingadores - Ultimato[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/33525.mp4	
-#EXTINF:-1 group-title=,[COLOR orange][B]Rampage[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/22705.mp4
-#EXTINF:-1 group-title=,[COLOR orange][B]Trolls 2[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/81765.mp4[/B][/COLOR]	
-#EXTINF:-1 group-title=,[COLOR orange][B]Scooby-Doo! E a Espad‪a‬[/B][/COLOR]	
-http://n.srv1.xyz:8880/movie/ACML2/ACM21/84010.mp4[/B][/COLOR]	
-#EXTINF:-1 group-title=,[COLOR orange][B]Medo da Chuva32[/B][/COLOR]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/83971.mp4[/B][/COLOR]	
-#EXTINF:-1 group-title=,[COLOR orange][B]Pai Por Engano32[/B][/COLOR]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/84151.mp4[/B][/COLOR]	
+#EXTM3U
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9199.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9200.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9201.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9202.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9203.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E11
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9204.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E12
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9205.mp4
+#EXTINF:-1 group-title="série • A Garota do Blog - Gossip Girl",Gossip Girl S03 E13
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/9206.mp4
