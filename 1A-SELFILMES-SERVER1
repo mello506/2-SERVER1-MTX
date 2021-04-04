@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] FILMES EM ALTA E LANÇAMENTOS[/B][/COLOR]</name>
+<name>[COLOR white][B] FILMES EM ALTA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/3-SERVER1-GERAL/main/1A1-LISFILM-EMALTA-SERV1-MTX</externallink>
 <thumbnail>https://i.ibb.co/NFzmxP0/Server-1-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B] LISTA 2[/B][/COLOR]</name>
+<name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/3-SERVER1-GERAL/main/1A2-LISFILM-2-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/NFzmxP0/Server-1-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
