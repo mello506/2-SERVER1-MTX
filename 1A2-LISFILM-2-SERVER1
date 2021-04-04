@@ -1,61 +1,557 @@
 #EXTM3U
-#EXTINF:-1 group-title="filme • EM ALTA",Capturado
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76102.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Moana: Um Mar de Aventuras
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25504.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Sangue no Gelo
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75908.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Vingadores - Ultimato
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/33525.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Mentira Incondicional
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75892.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",SCOOBY! O Filme
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67275.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Mulan
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71597.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",A Casa do Terror
+#EXTINF:-1 group-title="filme • LANÇAMENTO",#Alive
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72302.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",2 Minutos de Fama
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54113.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",2067 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75883.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",7 Denuncias - As Consequências do Caso COVID-19
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66228.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Babá - Rainha da Morte
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72651.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Barraca do Beijo 2
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65567.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Batida Perfeita [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67011.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Casa
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/43899.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Casa de Praia
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75769.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Casa do Terror
 http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75882.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Sociedade Secreta dos Segundos Filhos Reais
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76105.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Minha Mãe é Uma Peça 3
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39348.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Sonic - O Filme
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40931.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",O Halloween do Hubie
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75894.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",PETS - A Vida Secreta dos Nossos Bichos 2
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/34059.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",S.W.A.T - Força Letal
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75870.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Frozen 2
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/41513.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Hotel Transilvânia 3 - Férias Monstruosas
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25421.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Magia Invertida - Upside Down Magic
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75895.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",A Era do Gelo 5
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25201.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Arlequina em Aves de Rapina
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39885.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Harry Potter e a Pedra Filosofal
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22405.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",O Rei Leão
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/33910.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Bad Boys Para Sempre
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39806.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Viva - A Vida é Uma Festa
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26047.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Meu Malvado Favorito 3
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25495.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Planeta dos Macacos - A Guerra
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73390.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Em Busca do Castelo Dourado
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76111.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",A Gangue - Uma Noite de Terror
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Feral World [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74151.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Gangue - Uma Noite de Terror
 http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75006.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Jumanji - Próxima Fase
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/38964.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",A Era do Gelo 3
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25199.mp4
-#EXTINF:-1 group-title="filme • EM ALTA",Do Fundo do Mar 3
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Grande Luta
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44955.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Missy Errada
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49548.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Perfect Plan [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51540.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Princesa Encantada - O Casamento Real
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68195.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Química que Há Entre Nós
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70206.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Serial Killer
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48410.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Tenente de Cargil [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68210.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Terra e o Sangue
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/46390.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Vastidão da Noite
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54860.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",A Vastidão da Noite [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52367.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",AA do Amor
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75880.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Abe [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49074.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Afonso Padilha - Alma de Pobre
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71575.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Almost Human [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71261.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Alone [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74160.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Altered Carbon - Nova Capa
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/42861.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Altos Negócios
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/46392.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ambulância do Terror
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/57384.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",American Pie Presents - Girls' Rules [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75868.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Amor Garantido
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71576.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Amuleto
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73367.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Amuleto [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66955.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",An American Pickle [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71269.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Anelka - O incompreendido
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70286.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Apanhador de Pesadelos - Dreamkatcher
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48572.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Aqui Estamos Nós - Notas Sobre Como Viver no Planeta Terra
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47269.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Archive [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66965.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Arkansas
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52512.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Arkansas [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49604.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Artemis Fowl - O Mundo Secreto [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53826.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Atração de Risco
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47271.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Atrás da Sombra
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66976.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ava [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69684.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Baile da Morte
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62867.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Bala Perdida
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54861.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Beckman [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74158.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Becky [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53424.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ben Platt - Ao Vivo Em NY [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53058.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Berlim, Berlim
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67327.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Bill & Ted - Encare a Música
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71060.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Black Is King [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69751.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Black Water - Abyss [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71239.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Breve Miragem de Sol
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75004.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Bulbbul [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/58214.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Calm with Horses [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51312.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Capone [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49603.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Capturado
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76102.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Cenas de um Homicídio - Uma Família Vizinha
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75007.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Clemência - A História de Cyntoia Brown [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48106.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Coffee & Kareem
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52517.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Coffee And Kareem [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44385.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Como Cães e Gatos 3 - Peludos Unidos! [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74153.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Coronavírus - Como Tudo Começou
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44523.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Cory Carson e o Halloween
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76103.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Crimes de Família
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69929.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Cura Fatal
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75872.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Cut Throat City [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75899.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dançarina Imperfeita
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67328.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Darlin' [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67274.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dating Amber [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74156.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Desperados
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/59892.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Destacamento Blood
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53426.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dias Sem Fim
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48412.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dil Bechara [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71270.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Disforia
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62171.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Do Fundo do Mar 3
 http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71032.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Don't Let Go
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44386.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dragões Equipe de Resgate - Em Busca do Dragão Dourado
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44133.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Dragões Equipe de Resgate - Os segredos do Melo Draco
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66978.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",É o Bicho!
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65666.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Edge of Extinction [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70795.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Efeito Pigmaleão
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44640.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",eHero
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74999.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ela Morre Amanhã [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71577.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Emperor [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69683.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Encontro Fatal
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/64731.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Endgame 2050 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74163.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Endless [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71582.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Enemy Lines [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53275.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Enola Holmes
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73903.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Enola Holmes [ LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75772.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Enquanto Estivermos Juntos [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44131.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Escolhida [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73368.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Estou Pensando em Acabar com Tudo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72216.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Expresso do Destino [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54856.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Exterminador - Cavaleiros e Dragões
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69689.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Fangio - O Rei das Pistas [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/43875.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Fátima - A História de um Milagre [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71240.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Feel the Beat
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54855.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Feliz Halloween Scooby-Doo!
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75011.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Festival Eurovision da Canção - A Saga de Sigrit e Lars
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/57789.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Fogo Sombrio [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69410.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Follow Me - No Escape [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74154.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Força da Natureza [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/57383.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Fortuna Pelos Canos [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52649.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Freaks - Um de Nós
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71451.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",GIMS - Ícone do Rap
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73383.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Greyhound - Na Mira do Inimigo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65399.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Greyhound - Na Mira do Inimigo [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62869.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Hamilton [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/59895.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Herança [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62173.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Honeyland [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44451.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Host [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70916.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",I Met a Girl [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74159.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Irresistible [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70785.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",La casa de papel - El fenómeno
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48579.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",LA Originals [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44636.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Lady Driver [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52524.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Larva Ilhados - O Filme
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66977.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Legacy of Lies [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66969.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",LEGO DC - Shazam – Magia e Monstros
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51874.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Let It Snow [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75884.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Liga da Justiça Sombria - Guerra de Apokolips
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51316.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Lindinhas
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72305.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Lost Girls - Os Crimes de Long Island
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/42492.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Love Sarah [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74162.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Luccas Neto - O Hotel Mágico
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49549.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Luccas Neto em O Mapa do Tesouro
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71038.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Magia Invertida - Upside Down Magic
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75895.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Magia Invertida - Upside Down Magic [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69674.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Magic Camp [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70285.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Magos do Cubo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67159.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Maior Viagem - Uma Aventura Psicodélica
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/50762.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Maska [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44458.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mauricio Meirelles - Levando o Caos
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47576.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Max Reload and the Nether Blasters [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71272.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mentira Incondicional
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75892.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mentira Incondicional [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75889.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mentiras Perigosas
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48402.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Minha História - Michelle Obama
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48939.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Missão Pijamas - The Sleep Over
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69277.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mortal Kombat Legends - A Vingança de Scorpion
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/45460.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Morte Súbita 2 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75891.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Muito Amor Pra Dar
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72304.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mulan
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71597.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Mulan [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71598.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Na Solidão da Noite [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69757.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ninguém Sabe que Estou Aqui
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/59894.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Nível Hard
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68212.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",No Balanço das Coisas
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62168.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Nostalgia Ciência - Onde Estão Todos os Alienígenas?
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70210.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Notas de Rebeldia
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/43868.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Chefinho – Pega Esse Bebê
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73391.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Diabo de Cada Dia
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73240.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Fascínio
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75773.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Fascínio [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75795.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Fenômeno Sertanejo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66229.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Grande Ivan [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71586.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Halloween do Hubie
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75894.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Halloween do Hubie [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75893.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Inferno de Gabriel
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54854.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Inferno de Gabriel - Parte 2 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69682.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Jardim Secreto [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68197.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Maestro
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65409.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Marido Perdido
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73228.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Marido Perdido [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73238.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Ônibus Mágico Decola Novamente - Rumo ao Espaço
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67329.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Ritmo da Selva - O Filme
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69694.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Segredo - Ouse Sonhar
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73371.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Silêncio do Pântano
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47268.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",O Sol de Riccione
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/64728.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Octonautas e As Cavernas de Sac Actun
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68214.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Oferenda à Tempestade
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65597.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Olhos de Gato [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/57381.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Operação Obscura
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73226.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Oração Diabólica
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70209.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Orígens Secretas
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70906.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Os Espetaculares
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75010.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Os Infiéis [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68196.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Os Irmãos Willoughby
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47270.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Os Rapazes da Banda - The Boys in the Band
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75008.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Pai, Filho, Pátria
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/64732.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Parto Forçado
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72217.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Pense Como um Cão - Uma Mente Canina
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53821.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Pets Unidos
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72660.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Pódio para Todos
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71033.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Por Sua Causa
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75012.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Por Uma Vida Melhor
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75770.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Por Uma Vida Melhor [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75768.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Presságio
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52392.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Procura-se Um Pai
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72653.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Professor Polvo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72301.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Project Power
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/68208.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Proximity [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52364.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Quando o Sol se Põe
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66225.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Quase uma Rockstar
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70913.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Raízes de Sangue
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49550.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Relic [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73372.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Relíquia [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/63855.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Remédio Amargo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73241.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Rent-A-Pal [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73373.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Resgate
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47585.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Resgate em Malibu - A Próxima Onda
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67158.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Resiliência - Rafinha Alcantra
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/42661.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Resistance [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48593.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Ricos de Amor
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48403.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Rogue
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71069.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sangue de Pelicano
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75005.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Santana [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71056.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Save Yourselves - Salve-Se Quem Puder! [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75890.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",SCOOBY! O Filme
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67275.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",SCOOBY! O Filme [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51543.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Secreto e Proibido
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48105.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sedução Perigosa
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53433.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sérgio
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/46396.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Shooting Heroin [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52482.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sightless [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75885.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sno Babies [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75886.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sobreviver à Noite
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51549.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Sociedade Secreta dos Segundos Filhos Reais
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76105.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Soldier's Heart [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/58211.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Solteiramente
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69693.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Spree [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71271.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",StarBeam - Halloween Hero
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76106.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Still Here [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/73227.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Stolen Season [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/53292.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Super Monstros - Turma Nova
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/66979.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Superman - O Homem do Amanhã
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71030.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Switched [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74155.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Teenage Badass [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74152.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Terremoto
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49440.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Tesla [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70918.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Teste de Paternidade
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75765.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The 24th [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71031.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The 2nd [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72219.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Binge [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71259.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Droving [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52368.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The F**k-It List
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/65402.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Last Days of American Crime
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52647.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Legion [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51539.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Old Guard
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62159.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Outpost [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/62172.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Owners
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76109.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Pale Door [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70917.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Postcard Killings [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/42663.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Quarry
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/46983.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Tax Collector [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75888.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",The Wretched [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48945.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Thiago Ventura - POKAS
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/59891.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Tigertail [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44956.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Toda Palavra Conta
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/63853.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Trigger Points [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/49433.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Trolls 2 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/47607.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Turma 83 [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69409.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Último Momento de Clareza [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52370.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Um Amor, Mil Casamentos
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/44639.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Um Crime para Dois
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/51548.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Uma Boa História
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/72303.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Uma Noite em Bangkok
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71029.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Uma Tarefa Maluca [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70911.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Unbelievable [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70787.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Unbreakable Kimmy Schmidt - Kimmy x Reverendo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67256.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Uncle Tom [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/70912.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Unpregnant [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/74157.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Valley Girl - Sonhos Rebeldes
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/54097.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Vampiros X The Bronx
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75767.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Vera - Resgate Arco-íris
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52648.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Vestido Maldito
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75766.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Vigiados
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75771.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",ViihTube - Amiga do Inimigo
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/71237.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Você Nem Imagina
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/48413.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",We Are One - Somos Um Só [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67244.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",You Should Have Left [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/57382.mp4
+#EXTINF:-1 group-title="filme • LANÇAMENTO",Yummy [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/69692.mp4
+#EXTINF:-1 group-title="filme • CINEMA",Rev (CAM) [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52478.mp4
+#EXTINF:-1 group-title="filme • CINEMA",Union Bridge (CAM) [LEG]
+http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/52525.mp4
