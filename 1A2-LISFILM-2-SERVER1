@@ -1,17 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[B]Capturado[/B]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76102.mp4	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[B]Moana: Um Mar de Aventuras[/B]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25504.mp4	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[B]Sangue no Gelo[/B]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75908.mp4	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[B]Vingadores - Ultimato[/B]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/33525.mp4	
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[B]Mentira Incondicional[/B]	
-http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/75892.mp4	
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png",[B]Capturado[/B]
 http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76102.mp4	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png",[B]Moana: Um Mar de Aventuras[/B]
