@@ -1,8 +1,6 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[COLOR white][B]Capturado[/B][/COLOR]	
 http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/76102.mp4	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfRrLxh/Server-1-2.png" ,[COLOR white][B]Moana: Um Mar de Aventuras[/B][/COLOR]	
