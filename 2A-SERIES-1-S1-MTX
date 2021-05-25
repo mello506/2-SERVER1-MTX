@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 					
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TMkFGAbsTfN3DHJu5AemEpdcEE.jpg</thumbnail>					
 <fanart>https://www.themoviedb.org/t/p/original/8Wm4H0SmCSa0EEohkoIslDz9Uw9.jpg</fanart>					
-<info>Uma afro-americana que venceu a pobreza, construiu um império de produtos de beleza e se tornou a primeira milionária pelo próprio esforço. Baseado em uma história real.</info>					
+<info>Uma afro-americana que venceu a pobreza, construiu um império de produtos de beleza e se tornou a primeira milionária pelo próprio esforço. Baseado em uma Historia real.</info>					
 <genre>DRAMA</genre>  					
 </item>					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
@@ -735,6 +735,66 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
+					
+<item>					
+<title>[COLOR white][B]Under The dome - Prisão Invisível - 2013 [/B][/COLOR]</title>					
+					
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Under The dome - Prisao Invisivel[/B][/COLOR]</link>					
+					
+<link>NOLINK$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>					
+					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48970.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48971.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Fogo [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48972.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Caza Humana [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48973.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Epidemia [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48974.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Fogo Amigo [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48975.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Agua [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48976.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Circulos Imperfeitos [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48977.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Lazos de Familia [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48978.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Quarta Mao [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48979.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Que Comecem os Jogos [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48980.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Falando no Diabo [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48981.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Circunstancias Exigentes [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48982.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cortinas [/B][/COLOR]</link>					
+					
+<link>NOLINK$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>					
+					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48983.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabezas Rolarao [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48984.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Infestasao [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48985.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Forzas Maiores [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48986.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Revelasao [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48987.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Reconciliasao [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48988.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]No Escuro [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48989.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Indo para Casa [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48990.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Despertar [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48991.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]A Porta Vermelha [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48992.mp4$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]A Queda [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48993.mp4$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Gelo Preto [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48994.mp4$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Turno [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/48995.mp4$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Va Agora [/B][/COLOR]</link>					
+					
+<link>NOLINK$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>					
+					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49588.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Mova-se [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49589.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Mas Eu Nao Sou [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49590.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Reduz [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49591.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Parentesco [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49592.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Alasca [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49593.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Como Uma Casa Em Chamas [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49594.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Ejecta [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49595.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Ponto De Ruptura [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49596.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Plano B [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49597.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Legado [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49598.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]O Amor e Um Campo de Batalha [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/49599.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Incandescencia [/B][/COLOR]</link>					
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/52261.mp4$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]O Inimigo Aqui Dentro [/B][/COLOR]</link>					
+					
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/de3AmQ1WdPPG2nSgB00xQeLUFEX.jpg</thumbnail>					
+<fanart>https://www.themoviedb.org/t/p/original/qiDOjpLj2KGDwM5MGx9YZpOrBRX.jpg</fanart>					
+<info>Uma pequena cidade americana é repentinamente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.</info>					
+<genre>FICÇÃO E FANTASIA</genre>  					
+</item>					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX					
 					
 <item>					
 <title>[COLOR white][B]Vikings - 2013[/B][/COLOR]</title>					
