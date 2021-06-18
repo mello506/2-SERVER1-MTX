@@ -841,9 +841,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR white][B]Under The dome - Prisão Invisível - 2013 [/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Under The dome - Prisao Invisivel[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=MLNquY0cOQA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Under The dome - Prisao Invisivel[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
 
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48970.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48971.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Fogo [/B][/COLOR]</link>
@@ -859,7 +859,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48981.mp4$$lsname=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Circunstancias Exigentes [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48982.mp4$$lsname=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cortinas [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
 		
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48983.mp4$$lsname=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabezas Rolarao [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48984.mp4$$lsname=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Infestasao [/B][/COLOR]</link>
@@ -875,7 +875,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48994.mp4$$lsname=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Turno [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/48995.mp4$$lsname=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Va Agora [/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>
 		
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/49588.mp4$$lsname=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Mova-se [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/49589.mp4$$lsname=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Mas Eu Nao Sou [/B][/COLOR]</link>
@@ -1364,6 +1364,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/59948.mp4$$lsname=[COLOR orange][B]T05E22[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/59949.mp4$$lsname=[COLOR orange][B]T05E23[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/59950.mp4$$lsname=[COLOR orange][B]T05E24[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 6 - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59904.mp4$$lsname=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59905.mp4$$lsname=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59906.mp4$$lsname=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59907.mp4$$lsname=[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59908.mp4$$lsname=[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59909.mp4$$lsname=[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59910.mp4$$lsname=[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59911.mp4$$lsname=[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59912.mp4$$lsname=[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59913.mp4$$lsname=[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59914.mp4$$lsname=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59915.mp4$$lsname=[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59916.mp4$$lsname=[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59917.mp4$$lsname=[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59918.mp4$$lsname=[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59919.mp4$$lsname=[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59920.mp4$$lsname=[COLOR orange][B]T06E17[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59921.mp4$$lsname=[COLOR orange][B]T06E18[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59922.mp4$$lsname=[COLOR orange][B]T06E19[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59923.mp4$$lsname=[COLOR orange][B]T06E20[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59924.mp4$$lsname=[COLOR orange][B]T06E21[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59925.mp4$$lsname=[COLOR orange][B]T06E22[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/59926.mp4$$lsname=[COLOR orange][B]T06E23[COLOR yellow] -> [COLOR white]Desperate Housewives [/B][/COLOR]</link>
 	
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYc3vilSclFNTtex1WrCTkz98JK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/leDBisu9NazK2bCdSMTh1XBDcgE.jpg</fanart>
@@ -1372,7 +1398,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 	
 <item>
 <title>[COLOR white][B]Carga Pesada - 2003[/B][/COLOR]</title>
